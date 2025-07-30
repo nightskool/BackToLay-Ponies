@@ -16,3 +16,16 @@ Our bot hunts down the ponies that can do just that — again and again.
 ## 🚀 Features
 
 - 🧠 **Analyzes historical BSP + in-play low prices**
+- 
+---
+
+## 📦 Sample Data Format
+
+```csv
+HorseName,RaceDate,BSP,InPlayLow
+Egoli,2025-07-31,9.60,1.01
+Birdie Or Bust,2025-07-31,18.60,1.01
+Rahiebb,2025-07-31,29.20,1.80
+Windlord,2025-07-31,19.00,1.02
+...
+
