@@ -20,6 +20,8 @@ It doesn't need to win — just run like a beast for a bit.
 - 📉 Highlights profitable DOB trends from historical data
 - 📊 Generates a DOB drop **heatmap**
 - 🧪 Future: Telegram alerts, race-time predictions, and auto-DOB ladders
+- 📊 Heatmap generator to visualize DOB frequency by price range (coming soon)
+
 
 ---
 
