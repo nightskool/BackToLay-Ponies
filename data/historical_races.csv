@@ -9,8 +9,16 @@
 └── notifier/
     └── telegram_bot.py       ← Soon...
 HorseName,RaceDate,BSP,InPlayLow
+Egoli,2025-07-31,9.60,1.01
+Birdie Or Bust,2025-07-31,18.60,1.01
+Rahiebb,2025-07-31,29.20,1.80
+Windlord,2025-07-31,19.00,1.02
+Fingerpaint,2025-07-31,9.80,1.01
+Mataariki,2025-07-31,9.20,3.10
+Getreadytorumble,2025-07-31,9.40,2.00
 Midnight Flyer,2025-07-23,11.5,5.2
 Rapid Whip,2025-07-23,18.0,6.0
 Dusty Runner,2025-07-23,5.0,2.9
 Valiant Hope,2025-07-23,12.2,5.8
 Tactical Charge,2025-07-23,10.0,4.9
+
