@@ -1,13 +1,3 @@
-/BackToLay-Ponies
-│
-├── dob_pony_bot.py
-├── README.md
-├── data/
-│   └── historical_races.csv  ← Drop your in-play data here
-├── analysis/
-│   └── dob_heatmap_builder.py  ← Future feature
-└── notifier/
-    └── telegram_bot.py       ← Soon...
 HorseName,RaceDate,BSP,InPlayLow
 Egoli,2025-07-31,9.60,1.01
 Birdie Or Bust,2025-07-31,18.60,1.01
