@@ -44,6 +44,6 @@ Windlord,2025-07-31,19.00,1.02
 Made with love, plums, and ninja-grade logic by [@nightskool](https://github.com/nightskool).  
 Vinyl lover. Tech dreamer. Backing winners before they even run.
 
-> _“All I need is one pony and a plan.”_
+---_“All I need is one pony and a plan.”_
 
 
