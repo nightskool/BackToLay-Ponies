@@ -32,4 +32,7 @@ Birdie Or Bust,2025-07-31,18.60,1.01
 Rahiebb,2025-07-31,29.20,1.80
 Windlord,2025-07-31,19.00,1.02
 ...
+## 📁 Project Structure
+
+```plaintext
 
