@@ -1,0 +1,10 @@
+/BackToLay-Ponies
+│
+├── dob_pony_bot.py
+├── README.md
+├── data/
+│   └── historical_races.csv  ← Drop your in-play data here
+├── analysis/
+│   └── dob_heatmap_builder.py  ← Future feature
+└── notifier/
+    └── telegram_bot.py       ← Soon...
