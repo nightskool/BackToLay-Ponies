@@ -6,9 +6,10 @@ import pandas as pd
 import numpy as np
 
 # Placeholder for loading race data (replace with actual CSV/Excel path)
-def load_race_data(filepath):
-    df = pd.read_csv(filepath)
-    return df
+df = load_race_data("data/historical_races.csv")
+top_dob = get_top_dob_runners(df, "2025-07-23")
+print(top_dob.head(10))
+
 
 # Basic DOB candidate scoring
 # Looks for horses with BSP 9.0–20.0 and strong in-play low prices
