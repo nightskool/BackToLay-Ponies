@@ -16,8 +16,8 @@ It doesn't need to win — just run like a beast for a bit.
 
 ## 🚀 Features
 
-- 🧠 **Analyzes historical BSP and in-play low odds**
-- 🔥 Highlights horses with consistent in-play drops
+- 🧠 **Analyzes historical BSP + in-play low prices**
+- 📉 Highlights profitable DOB trends from historical data
 - 📊 Generates a DOB drop **heatmap**
 - 🧪 Future: Telegram alerts, race-time predictions, and auto-DOB ladders
 
